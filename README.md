@@ -2,6 +2,14 @@
 
 In this project we have tried to make a clone of <a href="https://tic-tac-toe-app-omega.vercel.app/" target="_blank">Let's Play Tic-Tac-Toe</a>. With my efforts and the technology stack,I am able to create Tic-Tac-Toe Game
 
+<img src="https://miro.medium.com/max/1367/1*_JyWC1l3pJhtnqKr2m9GUA.png" alt="" />
+
+<img src="https://miro.medium.com/max/1366/1*7uvxfYiBgArBXJKfn3GsCQ.png" alt="" />
+
+<img src="https://miro.medium.com/max/1366/1*QZCeDhjgORgKlCAPSIGwsA.png" alt="" />
+
+<img src="https://miro.medium.com/max/1369/1*Hcgv6hy-pSa2k4oi_NwkTg.png" alt="" />
+
 <div style='page-break-after: always'></div>
 
 ### <u>Deployed Link</u>
